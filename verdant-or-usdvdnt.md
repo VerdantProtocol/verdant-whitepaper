@@ -1,9 +1,9 @@
 ---
-description: An introduction to the World of Verdant
+description: An introduction to the wonderful World of Verdant
 icon: sun
 ---
 
-# Project Verdant
+# Verdant | $VDNT
 
 ### Welcome To Verdant
 

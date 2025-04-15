@@ -8,70 +8,64 @@ icon: pickaxe
 
 # The Miner
 
-###
+***
+
+Miners are the core engine of **Project Verdant** — self-contained digital units that yield rewards over time. But these aren’t idle generators. In Verdant, miners demand upkeep, strategy, and timing. This transforms passive yield into an **active, gamified economy.**
 
 ***
 
-#### 🧱 Miner Tiers
+### Miner Overview
 
-There are **three types of miners**, each offering different risk and reward profiles:
+Each miner tier offers different yield potential, pricing, and scaling opportunity. Rewards are paid out continously in **$VDT** which can thereafter be exchanged for **$VDNT.**
 
-| Tier         | Cost (VDNT) | ROI % | Daily VDT    | Lifespan | Max per Wallet | Global Cap      |
-| ------------ | ----------- | ----- | ------------ | -------- | -------------- | --------------- |
-| **BASIC**    | 500         | 159   | \~2.78 VDT   | 105 Days | 5              | No Cap          |
-| **ADVANCED** | 5,000       | 288   | \~41.67 VDT  | 75 Days  | 3              | No Cap          |
-| **ELITE**    | 50,000      | 585   | \~833.33 VDT | 45 Days  | 1              | **100 Total** ✅ |
+<table><thead><tr><th>Tier</th><th width="165">Cost Bloom ($BLM)</th><th>Yearly ROI (%)</th><th width="146">Weekly VDT</th><th width="197">Weekly Maintenance Cost</th><th>Max Units</th></tr></thead><tbody><tr><td>Basic</td><td>50,000 BLM</td><td>406%</td><td>194,444 VDT</td><td>4000 BLM</td><td>5</td></tr><tr><td>Advanced</td><td>500,000 BLM</td><td>608%</td><td>2,916,667 VDT</td><td>60,000 BLM</td><td>3</td></tr><tr><td>Elite</td><td>5,000,000 BLM</td><td>1217%</td><td>58,333,333 VDT</td><td>2,000,000 BLM</td><td>1</td></tr></tbody></table>
+
+> 💡 Note: 10% Tax applies on $BLM purchases and $VDT -> $VDNT redemptions. There are no restrictions on when you can harvest your rewards.
 
 ***
 
-#### 🛠 How Miners Work
+### How Miners Work
 
-* **Earning**: Once purchased, a miner starts producing **$VDT** daily. This continues until it reaches the end of its lifespan.
-* **Decay**: Every 7 days, miners require **maintenance**. If you forget to repair a miner twice in a row (2 missed weeks), it self-destructs.
-* **Lifespan**: Each miner type only lives for a certain number of days. After that, it stops earning and must be replaced.
-* **Reinvestment**: Many players choose to use their rewards to buy more miners or upgrade tiers — creating a **compounding loop**.
-
-***
-
-#### 🧰 Maintenance & Repair Kits
-
-To keep your miners alive and efficient, you’ll need to **maintain them weekly** using **Repair Kits**, which can be bought using **$VDNT** or **$BLM**.
-
-* Skipping a repair = miner loses 1 “life”
-* 2 missed repairs = miner destroyed 💀
-* Kits are priced affordably and serve as a **token sink**
+* **Earning:** Miners begin generating $VDT the moment they’re activated.
+* **Decay:** Every 7 days, your miner must be **maintained**. Your miners have 2 health bars (**that cannot be restored**). If you skip 2 maintenance windows back-to-back, the miner **self-destructs**.
+* **Persistence:** Miners last indefinitely with proper maintenance — turning them into long-term productivity assets.
+* **Scaling Loop:** Reinvest rewards to scale up miner count or upgrade to higher tiers — creating a compounding economy.
 
 ***
 
-#### 📈 Dynamic T3 Pricing
+### Maintenance
 
-T3 miners are **powerful but limited**. There are only **100 in existence**, and every time one is purchased, the price increases — not from a fixed chart, but because of the liquidity pool mechanics.
+To keep your miners running at full output, you’ll need to maintain them weekly by paying in **Bloom** ($BLM).
 
-> 🧪 Example: The first T3 might cost \~$250. The 20th T3? Over $600.\
-> Early movers get rewarded, latecomers pay a premium.
+| Tier     | Weekly Maintenance Cost |
+| -------- | ----------------------- |
+| Basic    | 4000 BLM                |
+| Advanced | 60,000 BLM              |
+| Elite    | 2,000,000 BLM           |
 
-This discourages whales from flooding the system and helps control emissions naturally.
-
-***
-
-#### 🧠 Example Strategy
-
-Let’s say Alice starts with a single T1 miner:
-
-* She pays 500 VDNT and starts earning \~2.78 VDT per day
-* She remembers to maintain it weekly (only costs a few cents)
-* After 30 days, she’s earned enough to buy a second T1
-* She compounds — doubling her rewards
-* Eventually, she’s earning enough to jump to a T2 or even aim for a T3
+* 🔧 **1 missed repair** = 1 life lost
+* 💀 **2 missed repairs in a row** = miner destroyed
 
 ***
 
-#### 🌿 Why It Works
+### Example Strategy
 
-Miners in Verdant aren’t forever — and that’s the point. The system encourages:
+Let’s say Alice begins with a T1:
 
-* 📆 **Planning**: Lifespans and repair cycles make timing matter
-* 🔁 **Compounding**: Reinforce growth or you’ll fall behind
-* 🧱 **Scarcity**: Limited T3s and rising costs curb runaway emissions
+1. She buys her first Basic Miner for **500 VDNT**
+2. She earns \~5.56 VDT/day and maintains it weekly for only \~4.84 VDNT
+3. She compounds weekly, adding more miners to her farm
+4. Within weeks, she earns enough to leap into Tier 2
+5. Alice sees her daily income increase as she continues to compound.
 
-This is how **Project Verdant balances yield with sustainability** — while keeping things fun, strategic, and rewarding.
+***
+
+### Why It Works
+
+Project Verdant’s mining model is designed for **longevity and fairness**, blending reward with responsibility:
+
+* 🧠 **Game Theory:** Smart players thrive, idle ones decay. Increase your share of a protocol with ever-growing utility and gamification.
+* 🔁 **Compounding Flywheel:** Reinvestment leads to exponential gains
+* 🔥 **Emission Control:** Maintenance costs, token sinks and utility ensures that the protocol remains sustainable by having external revenue sources.
+
+> “To participate in Project Verdant, you don’t just play — you plan.”

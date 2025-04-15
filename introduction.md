@@ -24,6 +24,12 @@ So build your farm, tend your miners, and roll the dice in this innovative new u
 
 **Project Verdant** is a dual-layered DeFi protocol that blends strategic yield farming with interactive gameplay.
 
+There are three tokens within the Project Verdant ecosystem:\
+\
+**Verdant - $VDNT**\
+**Bloom - $BLM**\
+**V**
+
 It’s made up of two core components:
 
 #### 🛠 **The Miner**&#x20;
@@ -35,6 +41,8 @@ A time-based yield mechanism where users purchase digital miners that generate r
 A pixel-art-inspired game layer where users can spend their tokens in mini-games, gamble, or unlock cosmetics. Games like Crash, Loot Boxes, and PvP challenges act as **burn mechanics**, reducing supply and rewarding engagement. The Arcade is where yield becomes interactive.
 
 Together, these systems create a sustainable, deflationary ecosystem where **strategy, timing, and participation** define success.
+
+
 
 
 

@@ -1,7 +1,8 @@
 ---
 description: >-
-  Verdant incorporates a three-token architecture. Each token has a distinct
-  role within the economy, synergizing to empower the ecosystem.
+  Project Verdant uses a three-token architecture, each with a distinct role in
+  the economy. Together, they power the Miner, the Arcadium, and the broader
+  player economy — while incorporating sustainabl
 icon: coin
 ---
 
@@ -13,6 +14,7 @@ icon: coin
 
 <figure><img src=".gitbook/assets/Main (1).png" alt="" width="256"><figcaption><p><strong>Verdant ($VDNT)</strong></p></figcaption></figure>
 
+* <mark style="color:yellow;">Maximum Supply</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**- 21,000,000**</mark>
 * The **native token** of Verdant and the only tradeable token within the ecosystem,
 * Used to buy and maintain miners, play arcade games, and interact with the protocol’s features.
 * Subject to taxes on key actions to maintain long-term sustainability.

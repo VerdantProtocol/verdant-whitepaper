@@ -21,12 +21,12 @@ icon: coin
 
 #### Tax Structure (applied to $VDNT)
 
-| Action                           | Tax (%) | Notes                               |
-| -------------------------------- | ------- | ----------------------------------- |
-| Buying $VDNT                     | 10%     | Applied on entry into the protocol  |
-| Selling $VDNT                    | 10%     | Sell tax, to discourage fast exits  |
-| VDNT → BLM (Bloom)               | 10%     | Conversion tax, part of compounding |
-| VDT (Verdite) -> VDNT redemption | 10%     | Claiming rewards from miners        |
+| Action                           | Tax (%) | Notes                                     |
+| -------------------------------- | ------- | ----------------------------------------- |
+| Buying $VDNT                     | 10%     | Buy Tax - Protocol Fee                    |
+| Selling $VDNT                    | 10%     | Sell Tax - Discourages quick exits        |
+| VDNT → BLM (Bloom)               | 10%     | Conversion Tax - Stabilizes compounding   |
+| VDT (Verdite) -> VDNT redemption | 10%     | Rewards Tax - Moderates gains from miners |
 
 ***
 

@@ -3,7 +3,7 @@
 * [Page](README.md)
 * [Verdant | $VDNT](verdant-or-usdvdnt.md)
 * [The Miner](the-miner.md)
-* [The Arcade](the-arcade.md)
+* [The Arcadium](the-arcadium.md)
 * [Tokenomics](tokenomics.md)
 * [Rules](rules.md)
 * [Roadmap](roadmap.md)

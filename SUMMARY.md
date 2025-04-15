@@ -11,8 +11,8 @@
 
 ## Tokenomics
 
-* [Currencies & Conversions](tokenomics.md)
 * [Launch Figures](tokenomics/bloom-usdblm.md)
+* [Currencies & Conversions](tokenomics.md)
 
 ***
 

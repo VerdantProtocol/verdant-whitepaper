@@ -1,8 +1,7 @@
 ---
 description: >-
-  Project Verdant uses a three-token architecture, each with a distinct role in
-  the economy. Together, they power the Miner, the Arcadium, and the broader
-  player economy — while incorporating sustainabl
+  Verdant incorporates a three-token architecture. Each token has a distinct
+  role within the economy, synergizing to empower the ecosystem.
 icon: coin
 ---
 
@@ -10,9 +9,9 @@ icon: coin
 
 ***
 
-<figure><img src=".gitbook/assets/Verdant-Transparent (3).png" alt="" width="375"><figcaption><p><strong>Verdant</strong></p></figcaption></figure>
+### Verdant ($VDNT) - Core Currency
 
-### $VDNT – Verdant Token (Core Currency)
+<figure><img src=".gitbook/assets/Main (1).png" alt="" width="256"><figcaption><p><strong>Verdant ($VDNT)</strong></p></figcaption></figure>
 
 * The **native token** of Verdant and the only tradeable token within the ecosystem,
 * Used to buy and maintain miners, play arcade games, and interact with the protocol’s features.
@@ -29,10 +28,11 @@ icon: coin
 
 ***
 
-<figure><img src=".gitbook/assets/Verdite (1).png" alt="" width="256"><figcaption><p><strong>Bloom</strong></p></figcaption></figure>
+### Bloom $BLM - Utility Currency
 
-### &#x20;$BLM – Bloom (Utility Currency)
+*
 
+    <figure><img src=".gitbook/assets/Bloom (2).png" alt="" width="256"><figcaption><p><strong>Bloom ($BLM)</strong></p></figcaption></figure>
 * **In-game utility token** used to purchase miners and pay maintenance.
 * Converted 1:1,000 from VDNT. (i.e. 1 VDNT = 1,000 BLM)
 * Burned and consumed through miner upkeep and upgrades.
@@ -45,9 +45,9 @@ icon: coin
 
 ***
 
-<figure><img src=".gitbook/assets/Bloom (2).png" alt="" width="256"><figcaption><p><strong>Verdite</strong></p></figcaption></figure>
+### Verdite ($VDT) - Reward Currency
 
-### $VDT – Verdite (Reward Currency)
+<figure><img src=".gitbook/assets/Verdite (1).png" alt="" width="256"><figcaption><p>Verdite ($VDT)</p></figcaption></figure>
 
 * This is what miners generate every day.
 * Cannot be directly used; must be **claimed and converted** to VDNT (with tax).

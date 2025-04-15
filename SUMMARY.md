@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Page 1](README.md)
-* [Verdant | $VDNT](<README (1).md>)
+## Introduction
+
+* [Verdant | $VDNT](README.md)
 
 ## Ecosystem
 
@@ -10,8 +11,8 @@
 
 ## Tokenomics
 
-* [Currencies & Conversions](tokenomics/currencies-and-conversions.md)
-* [Launch Figures](tokenomics/launch-figures.md)
+* [Currencies & Conversions](tokenomics.md)
+* [Launch Figures](tokenomics/bloom-usdblm.md)
 
 ***
 

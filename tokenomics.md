@@ -14,18 +14,13 @@ icon: coin
 <figure><img src=".gitbook/assets/Main (1).png" alt="" width="256"><figcaption><p><strong>Verdant ($VDNT)</strong></p></figcaption></figure>
 
 * <mark style="color:yellow;">Maximum Supply</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**- 21,000,000**</mark>
-* The **native token** of Verdant and the only tradeable token within the ecosystem,
+* The **Native Token** of Verdant and the only tradeable token within the ecosystem,
 * Used to buy and maintain miners, play arcade games, and interact with the protocol’s features.
 * Subject to taxes on key actions to maintain long-term sustainability.
 
 #### Tax Structure (applied to $VDNT)
 
-| Action                           | Tax (%) | Notes                                     |
-| -------------------------------- | ------- | ----------------------------------------- |
-| Buying $VDNT                     | 10%     | Buy Tax - Protocol Fee                    |
-| Selling $VDNT                    | 10%     | Sell Tax - Discourages quick exits        |
-| VDNT → BLM (Bloom)               | 10%     | Conversion Tax - Stabilizes compounding   |
-| VDT (Verdite) -> VDNT redemption | 10%     | Rewards Tax - Moderates gains from miners |
+<table><thead><tr><th width="302">Action</th><th width="85">Tax</th><th>Effect</th></tr></thead><tbody><tr><td>Buying $VDNT</td><td>10%</td><td>Buy Tax - Protocol Fee</td></tr><tr><td>Selling $VDNT</td><td>10%</td><td>Sell Tax - Discourages quick exits</td></tr><tr><td>Exchanging $VDNT for $BLM</td><td>10%</td><td>Conversion Tax - Stabilizes compounding</td></tr><tr><td>Refining $VDT to $VDNT</td><td>10%</td><td>Rewards Tax - Moderates gains from miners</td></tr></tbody></table>
 
 ***
 
@@ -33,7 +28,7 @@ icon: coin
 
 <figure><img src=".gitbook/assets/Bloom (2).png" alt="" width="256"><figcaption><p><strong>Bloom ($BLM)</strong></p></figcaption></figure>
 
-* **In-game utility token** used to purchase miners and pay maintenance.
+* **In-Game Utility Token** used to purchase miners and pay maintenance.
 * Converted 1:1,000 from VDNT. (i.e. 1 VDNT = 1,000 BLM)
 * Burned and consumed through miner upkeep and upgrades.
 * Also used in the Arcade to play games and access limited features.
@@ -66,7 +61,7 @@ The core Verdant loop works like this:
 2. 🔄 **Convert $VDNT → BLM** (used for all in-game activity — taxed 10%)
 3. ⛏️ **Use BLM to buy miners**
 4. 💰 **Miners generate $VDT daily**
-5. 🔁 **Claim $VDT → Convert to $VDNT** (taxed 10%)
+5. 🔁 **Claim $VDT → Refine into $VDNT** (taxed 10%)
 6. 🔄 **Convert $VDNT → BLM** again to maintain or expand your miner fleet (taxed 10%)
 7. 🎮 **Optionally, spend $VDNT in the Arcadium** — Verdant’s retro-style game hub
 8. 🔥 **Taxes, burns, and token sinks** across the system reduce inflation and support long-term sustainability

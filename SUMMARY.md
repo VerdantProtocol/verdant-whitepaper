@@ -10,7 +10,7 @@
 
 ## Tokenomics
 
-* [Verdant ($VDNT)](tokenomics/verdant-usdvdnt.md)
+* [Verdant ($VDNT)](tokenomics.md)
 * [Bloom ($BLM)](tokenomics/bloom-usdblm.md)
 * [Verdite ($VDT)](tokenomics/verdite-usdvdt.md)
 

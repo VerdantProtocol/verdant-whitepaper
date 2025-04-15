@@ -17,14 +17,6 @@ _**Verdant**_ isn’t your average farm-and-dump DeFi scheme. It’s a living, b
 
 _**Verdant**_ is a Dual-Layer DeFi Protocol. It blends tokenization with interactive income generation.
 
-There are three tokens within the Project Verdant ecosystem:\
-\
-**Verdant - $VDNT**\
-**Bloom - $BLM**\
-**V**
-
-
-
 The Virtual Layer of Verdant is comprised of two main components:
 
 #### 🌎 Verdant **World  (Miner)**

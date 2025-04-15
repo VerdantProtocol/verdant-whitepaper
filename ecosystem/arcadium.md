@@ -5,7 +5,7 @@ description: >-
 icon: gamepad
 ---
 
-# The Arcadium
+# Arcadium
 
 ***
 
@@ -30,13 +30,13 @@ Players can wager tokens, earn rare rewards, unlock cosmetics, or simply risk it
 
 ### Sample Games
 
-| Game                      | Mechanics                                              | Burn Model                        |
-| ------------------------- | ------------------------------------------------------ | --------------------------------- |
-| **Bloom Crash**           | Ride the multiplier rocket, cash out before it crashes | Burn % of losing bets             |
-| **Verdant Flip**          | High-speed coinflip duels with 2–4 players             | Winner takes pot, house burns cut |
-| **Farm Frenzy**           | Idle battler with risk tiers & NFT boosters            | Burn tokens on failed harvests    |
-| **Reap Roulette**         | Classic 8-bit wheel-of-doom RNG                        | Every spin has a % to burn        |
-| **Rock, Paper, Scissors** | PvP rock paper scissors. Trust me, it gets heated!     | Winner takes pot, house burns cut |
+| Game                      | Mechanics                                                                              | Burn Model                        |
+| ------------------------- | -------------------------------------------------------------------------------------- | --------------------------------- |
+| **Crash**                 | Ride the multiplier rocket, cash out before it crashes                                 | Burn % of losing bets             |
+| **Flip**                  | High-speed coinflip duels with 2–4 players                                             | Winner takes pot, house burns cut |
+| Landmine                  | Pick safe tiles to increase multiplier. Hit a landmine and lose all. Cash out anytime. | Burn tokens on lost plays.        |
+| **Roulette**              | Classic 8-bit wheel-of-doom RNG                                                        | Every spin has a % to burn        |
+| **Rock, Paper, Scissors** | PvP rock paper scissors. Trust me, it gets heated!                                     | Winner takes pot, house burns cut |
 
 > 👾 New games roll out seasonally, each with its own leaderboard, prize pool, and meta.
 

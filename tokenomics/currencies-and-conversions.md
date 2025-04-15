@@ -6,13 +6,11 @@ description: >-
 icon: coin
 ---
 
-# Verdant ($VDNT)
-
-<figure><img src=".gitbook/assets/Main.png" alt="" width="384"><figcaption></figcaption></figure>
+# Currencies & Conversions
 
 ***
 
-<figure><img src=".gitbook/assets/Verdant-Transparent (3).png" alt="" width="375"><figcaption><p><strong>Verdant</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Verdant-Transparent (3).png" alt="" width="375"><figcaption><p><strong>Verdant</strong></p></figcaption></figure>
 
 ### $VDNT – Verdant Token (Core Currency)
 
@@ -31,7 +29,7 @@ icon: coin
 
 ***
 
-<figure><img src=".gitbook/assets/Verdite (1).png" alt="" width="256"><figcaption><p><strong>Bloom</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Verdite (1).png" alt="" width="256"><figcaption><p><strong>Bloom</strong></p></figcaption></figure>
 
 ### &#x20;$BLM – Bloom (Utility Currency)
 
@@ -47,7 +45,7 @@ icon: coin
 
 ***
 
-<figure><img src=".gitbook/assets/Bloom (2).png" alt="" width="256"><figcaption><p><strong>Verdite</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Bloom (2).png" alt="" width="256"><figcaption><p><strong>Verdite</strong></p></figcaption></figure>
 
 ### $VDT – Verdite (Reward Currency)
 

@@ -10,9 +10,8 @@
 
 ## Tokenomics
 
-* [Verdant ($VDNT)](tokenomics.md)
-* [Bloom ($BLM)](tokenomics/bloom-usdblm.md)
-* [Verdite ($VDT)](tokenomics/verdite-usdvdt.md)
+* [Currencies & Conversions](tokenomics/currencies-and-conversions.md)
+* [Launch Figures](tokenomics/launch-figures.md)
 
 ***
 

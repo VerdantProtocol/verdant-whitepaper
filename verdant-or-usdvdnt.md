@@ -5,8 +5,6 @@ icon: sun
 
 # Verdant | $VDNT
 
-<figure><img src=".gitbook/assets/photo_2025-04-14_14-58-38.jpg" alt=""><figcaption></figcaption></figure>
-
 ### Welcome To Verdant
 
 Somewhere between the rusted roots of forgotten machines and the neon buzz of arcade lights, _**Verdant**_ was born.

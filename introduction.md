@@ -1,46 +1,40 @@
+---
+icon: sun
+---
+
 # Introduction
 
-##
+### Welcome to Project Verdant
 
-## 🌿 Introduction
+Somewhere between the rusted roots of forgotten machines and the neon buzz of arcade lights, **Project Verdant** was born.
 
-Welcome to **Verdant Protocol**, a gamified DeFi mining simulation built on the principles of sustainability, compounding, and active strategy. With three core tokens—$VDNT, $BLM, and $VDT—Verdant blends game mechanics with real DeFi economics.
+Verdant isn’t your average farm-and-dump DeFi scheme. It’s a living, breathing ecosystem where yield doesn’t just appear — it’s _mined_, _maintained_, and _played_.\
+\
+At its core lies a trio of miners — each with its own mechanics, reward, and lifespan. They grow. They wither. They die. And in their cycle, they feed the network.
 
-## 💰 Token Overview
+But Verdant isn’t just about numbers. Beyond the mining rigs and reward loops is **BitSprout**, a pixel-perfect arcade layer where your tokens become tickets to risk, chance, and glory. Whether you’re playing Crash to chase multipliers or burning tokens for exclusive cosmetics, the game is always on.
 
-### 🔷 $VDNT (Verdant Token)
+Here, sustainability isn’t a pitch — it’s a mechanic. Lifespans, maintenance, rising costs… these aren’t bugs, they’re features. Verdant’s economy was designed to be anti-abuse, anti-infinite-print, and pro-fun.
 
-* On-chain utility token
-* Used to purchase miners and facilities (via $BLM)
-* Earned indirectly by converting $VDT rewards
-* Total supply: 21,000,000 VDNT
-* Subject to taxes on conversion and spending
+> “Verdant rewards those who nurture, plan, and play — it’s a world where your choices bloom”
 
-### 🌸 $BLM (Bloom)
+So build your farm, tend your miners, and roll the dice in this innovative new universe built on Abstract.
 
-* In-game world currency
-* Used to pay miner maintenance costs
-* 1 VDNT = 1,000 BLM
+### Protocol Overview
 
-### 🔶 $VDT (Verdite)
+**Project Verdant** is a dual-layered DeFi protocol that blends strategic yield farming with interactive gameplay.
 
-* Off-chain reward token earned through mining
-* Must be converted to VDNT to be liquid
-* 10% tax on conversion
+It’s made up of two core components:
 
-## ⛏ Miner System
+#### 🛠 **The Miner System — “Root Engine”**
 
-### 🧱 Miner Tiers
+A time-based yield mechanism where users purchase digital miners that generate rewards over fixed durations. Miners decay over time, require maintenance, and self-destruct if neglected. The system includes three tiers (T1–T3), each with distinct costs, lifespans, and ROI. T3s are limited in supply and dynamically priced via the liquidity pool.
 
-| Tier | Label    | Max Units | Cost (BLM) | Cost (VDNT) | ROI Days | Daily Reward (VDT) | Reward (VDNT) | Lifespan |
-| ---- | -------- | --------- | ---------- | ----------- | -------- | ------------------ | ------------- | -------- |
-| T1   | Basic    | 5         | 500,000    | 500         | 90       | 27,777.78          | 5.56          | 105 days |
-| T2   | Advanced | 3         | 5,000,000  | 5,000       | 60       | 416,666.67         | 83.33         | 75 days  |
-| T3   | Elite    | 1         | 50,000,000 | 50,000      | 30       | 8,333,333.33       | 1,666.67      | 45 days  |
+#### 🎮 **The Arcade Layer — “BitSprout”**
 
-### 🧰 Maintenance & Lives
+A pixel-art-inspired game layer where users can spend their tokens in mini-games, gamble, or unlock cosmetics. Games like Crash, Loot Boxes, and PvP challenges act as **burn mechanics**, reducing supply and rewarding engagement. BitSprout is where yield becomes interactive.
 
-* Each miner has 2 lives
-* Missed weekly maintenance costs 1 life
-* Miner is destroyed at 0 lives
-* Maintenance cost paid in BLM
+Together, these systems create a sustainable, deflationary ecosystem where **strategy, timing, and participation** define success.
+
+
+

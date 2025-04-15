@@ -64,8 +64,8 @@ Let’s say Alice begins with a T1:
 
 Project Verdant’s mining model is designed for **longevity and fairness**, blending reward with responsibility:
 
-* 🧠 **Game Theory:** Smart players thrive, idle ones decay. Increase your share of a protocol with ever-growing utility and gamification.
-* 🔁 **Compounding Flywheel:** Reinvestment leads to exponential gains
-* 🔥 **Emission Control:** Maintenance costs, token sinks and utility ensures that the protocol remains sustainable by having external revenue sources.
+* **Game Theory:** Smart players thrive, idle ones decay. Increase your share of a protocol with ever-growing utility and gamification.
+* **Compounding Flywheel:** Reinvestment leads to exponential gains
+* **Emission Control:** Maintenance costs, token sinks and utility ensures that the protocol remains sustainable by having external revenue sources.
 
 > “To participate in Project Verdant, you don’t just play — you plan.”

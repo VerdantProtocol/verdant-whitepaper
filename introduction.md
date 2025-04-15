@@ -28,7 +28,7 @@ It’s made up of two core components:
 
 #### 🛠 **The Miner**&#x20;
 
-A time-based yield mechanism where users purchase digital miners that generate rewards over fixed durations. Miners decay over time, require maintenance, and self-destruct if neglected. The system includes three tiers (T1–T3), each with distinct costs, lifespans, and ROI. T3s are limited in supply and dynamically priced via the liquidity pool.
+A time-based yield mechanism where users purchase digital miners that generate rewards over fixed durations. Miners decay over time, require maintenance, and self-destruct if neglected. The system includes three tiers **Basic, Advanced** and **Elite**, each with distinct costs, lifespans, and ROI. T3s are limited in supply and dynamically priced via the liquidity pool.
 
 #### 🎮 **The Arcade Layer**
 

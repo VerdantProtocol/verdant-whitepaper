@@ -30,9 +30,8 @@ icon: coin
 
 ### Bloom $BLM - Utility Currency
 
-*
+<figure><img src=".gitbook/assets/Bloom (2).png" alt="" width="256"><figcaption><p><strong>Bloom ($BLM)</strong></p></figcaption></figure>
 
-    <figure><img src=".gitbook/assets/Bloom (2).png" alt="" width="256"><figcaption><p><strong>Bloom ($BLM)</strong></p></figcaption></figure>
 * **In-game utility token** used to purchase miners and pay maintenance.
 * Converted 1:1,000 from VDNT. (i.e. 1 VDNT = 1,000 BLM)
 * Burned and consumed through miner upkeep and upgrades.

@@ -7,6 +7,10 @@ icon: earth-americas
 
 # Verdant World
 
+
+
+<figure><img src="../.gitbook/assets/ChatGPT Image Apr 16, 2025, 12_57_08 AM.png" alt="" width="563"><figcaption><p>Verdant World - Your Kingdom Awaits!</p></figcaption></figure>
+
 ***
 
 Miners are the core engine of _**Verdant**_. They are digital units that generate rewards over time. But be careful, these aren't idle generators. Miners demand upkeep, strategy, and timing. This mechanism transforms passive yield into an _**interactive economy**_**.**

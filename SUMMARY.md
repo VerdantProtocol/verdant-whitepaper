@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Verdant | $VDNT](README.md)
-* [The Miner](the-miner.md)
+* [Verdant World](verdant-world.md)
 * [The Arcadium](the-arcadium.md)
 * [Tokenomics](tokenomics.md)
 * [Roadmap](roadmap.md)

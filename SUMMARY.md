@@ -1,9 +1,21 @@
 # Table of contents
 
-* [Verdant | $VDNT](README.md)
-* [Verdant World](verdant-world.md)
-* [The Arcadium](the-arcadium.md)
-* [Tokenomics](tokenomics.md)
+* [Page 1](README.md)
+* [Verdant | $VDNT](<README (1).md>)
+
+## Ecosystem
+
+* [Verdant World](ecosystem/verdant-world.md)
+* [Arcadium](ecosystem/arcadium.md)
+
+## Tokenomics
+
+* [Verdant ($VDNT)](tokenomics/verdant-usdvdnt.md)
+* [Bloom ($BLM)](tokenomics/bloom-usdblm.md)
+* [Verdite ($VDT)](tokenomics/verdite-usdvdt.md)
+
+***
+
 * [Roadmap](roadmap.md)
-* [Glossary](glossary.md)
 * [Links](links.md)
+* [Glossary](glossary.md)

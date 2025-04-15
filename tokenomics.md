@@ -1,8 +1,7 @@
 ---
 description: >-
-  Project Verdant uses a three-token architecture, each with a distinct role in
-  the economy. Together, they power the Miner, the Arcadium, and the broader
-  player economy — while incorporating sustainabl
+  Verdant incorporates a three-token architecture. Each token has a distinct
+  role in the economy, synergizing and supporting the ecosystem.
 icon: coin
 ---
 

@@ -21,10 +21,10 @@ _**Arcadium**_ will feature both singleplayer and multiplayer games, player-vs-p
 
 ### Key Features
 
-* _**Verdant World**_ - Explore the vast expanse of Verdant. Interact with your miners, embark on adventures and discover hidden rewards.&#x20;
-* **Play-to-Burn**: Tokens collected inhouse by the house edge are burned! Creating deflationary pressure and a sink for $VDNT.
+* _**Verdant World**_ - Explore the vast expanse of _**Verdant**_. Interact with your miners, embark on adventures and discover hidden rewards.&#x20;
+* **Play-to-Burn**: Tokens collected inhouse by the house edge are burned! Creating deflationary pressure and a sink for _**$VDNT**_.
 * **Gamified Yield**: Instead of just passively earning, users can multiply or lose rewards through skill or luck.
-* **Cosmetics & Utility Items**: Unlock special skins, power-ups, or vanity assets by participating in Arcadium events.
+* **Cosmetics & Utility Items**: Unlock special skins, power-ups, or vanity assets by participating in _**Arcadium**_ events.
 
 ***
 
@@ -38,7 +38,7 @@ _**Arcadium**_ will feature both singleplayer and multiplayer games, player-vs-p
 
 ### Seasonal Events & Leaderboards
 
-Each season, the Arcadium features unique events:
+Each season, _**Arcadium**_ features unique events:
 
 * Weekly & monthly leaderboards
 * Miner rewards and exclusive loot
@@ -49,7 +49,7 @@ Each season, the Arcadium features unique events:
 
 ### Why the Arcadium Matters
 
-The Arcadium is more than just fun. It’s part of Verdants core sustainability loop:
+_**Arcadium**_ is more than just fun. It’s part of Verdants core sustainability loop:
 
 * Recycles passive rewards into active gameplay
 * Burns tokens on every play, lowering inflation

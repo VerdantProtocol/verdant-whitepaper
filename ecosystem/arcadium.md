@@ -24,13 +24,13 @@ _**Arcadium**_ will feature both singleplayer and multiplayer games, player-vs-p
 * _**Verdant World**_ - Explore the vast expanse of Verdant. Interact with your miners, embark on adventures and discover hidden rewards.&#x20;
 * **Play-to-Burn**: Tokens collected inhouse by the house edge are burned! Creating deflationary pressure and a sink for $VDNT.
 * **Gamified Yield**: Instead of just passively earning, users can multiply or lose rewards through skill or luck.
-* **Cosmetics & Utility Items**: Unlock special skins, power-ups, or vanity assets by participating in arcadium events.
+* **Cosmetics & Utility Items**: Unlock special skins, power-ups, or vanity assets by participating in Arcadium events.
 
 ***
 
 ### Sample Games
 
-<table><thead><tr><th>Game</th><th>Mechanics</th><th width="260">Burn Model</th></tr></thead><tbody><tr><td><strong>Crash</strong></td><td>Ride the multiplier rocket, cash out before it crashes</td><td>Burn % of losing bets</td></tr><tr><td><strong>Flip</strong></td><td>High-speed coinflip duels with 2–4 players</td><td>Winner takes pot, house burns cut</td></tr><tr><td>Landmine</td><td>Pick safe tiles to increase multiplier. Hit a landmine and lose all. Cash out anytime.</td><td>Burn tokens on lost plays.</td></tr><tr><td><strong>Roulette</strong></td><td>Classic 8-bit wheel-of-doom RNG</td><td>Every spin has a % to burn</td></tr><tr><td><strong>Rock, Paper, Scissors</strong></td><td>PvP rock paper scissors. Trust me, it gets heated!</td><td>Winner takes pot, house burns cut</td></tr></tbody></table>
+<table><thead><tr><th>Game</th><th>Mechanics</th><th width="260">Burn Model</th></tr></thead><tbody><tr><td><strong>Crash</strong></td><td>Ride the multiplier rocket, cash out before it crashes</td><td>Burn % of losing bets</td></tr><tr><td><strong>Flip</strong></td><td>High-speed coinflip duels with 2–4 players</td><td>Winner takes pot, house burns cut</td></tr><tr><td><strong>Landmine</strong></td><td>Pick safe tiles to increase multiplier. Hit a landmine and lose all. Cash out anytime.</td><td>Burn tokens on lost plays.</td></tr><tr><td><strong>Roulette</strong></td><td>Classic 8-bit wheel-of-doom RNG</td><td>Every spin has a % to burn</td></tr><tr><td><strong>Rock, Paper, Scissors</strong></td><td>PvP rock paper scissors. Trust me, it gets heated!</td><td>Winner takes pot, house burns cut</td></tr></tbody></table>
 
 > 👾 New games roll out seasonally, each with its own leaderboard, prize pool, and meta.
 

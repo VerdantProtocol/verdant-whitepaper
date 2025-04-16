@@ -7,8 +7,6 @@ icon: earth-americas
 
 # Verdant World
 
-
-
 <figure><img src="../.gitbook/assets/ChatGPT Image Apr 16, 2025, 12_57_08 AM.png" alt="" width="563"><figcaption><p>Verdant World - Your Kingdom Awaits!</p></figcaption></figure>
 
 ***
@@ -29,11 +27,13 @@ Each miner offers different rewards generation and scaling potential.&#x20;
 
 Rewards are paid out continuously in _**Verdite ($VDT)**_ - not to be confused with _**Verdant ($VDNT)**_, the core ecosystem token. _**Verdite**_ can be refined into _**Verdant**_.
 
-### Miner Statistics
+### Miner Details
 
 <table><thead><tr><th width="99">Tier</th><th width="91">Yearly ROI</th><th width="89">Max Units</th><th width="155">Rewards/Week</th><th width="165">Cost</th><th width="157">Maintenance/Week</th></tr></thead><tbody><tr><td>Basic</td><td>406%</td><td>5</td><td>194,444 <strong>$VDT</strong></td><td>500,000 <strong>$BLM</strong> </td><td>4000 <strong>$BLM</strong></td></tr><tr><td>Advanced</td><td>608%</td><td>3</td><td>2,916,667 <strong>$VDT</strong></td><td>5,000,000 <strong>$BLM</strong></td><td>60,000 <strong>$BLM</strong></td></tr><tr><td>Elite</td><td>1217%</td><td>1</td><td>58,333,333 <strong>$VDT</strong></td><td>50,000,000 <strong>$BLM</strong></td><td>2,000,000 <strong>$BLM</strong></td></tr></tbody></table>
 
 > 💡 Info: Rewards are paid out in _**$VDT**_, but maintenance can only be paid in _**$BLM**_. _**$VDT**_ must be refined into _**$VDNT**_, and exchanged for _**$BLM**_. You cannot convert _**$VDT**_ directly into _**$BLM**_.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption><p>Elite - The Pinnacle of Rewards Generation</p></figcaption></figure>
 
 ***
 

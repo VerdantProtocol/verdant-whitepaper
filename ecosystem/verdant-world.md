@@ -7,7 +7,7 @@ icon: earth-americas
 
 # Verdant World
 
-<figure><img src="../.gitbook/assets/ChatGPT Image Apr 16, 2025, 12_57_08 AM.png" alt="" width="563"><figcaption><p>Verdant World - Your Kingdom Awaits!</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ChatGPT Image Apr 16, 2025, 12_57_08 AM.png" alt=""><figcaption><p>Verdant World - Your Kingdom Awaits!</p></figcaption></figure>
 
 ***
 
@@ -33,7 +33,7 @@ Rewards are paid out continuously in _**Verdite ($VDT)**_ - not to be confused w
 
 > 💡 Info: Rewards are paid out in _**$VDT**_, but maintenance can only be paid in _**$BLM**_. _**$VDT**_ must be refined into _**$VDNT**_, and exchanged for _**$BLM**_. You cannot convert _**$VDT**_ directly into _**$BLM**_.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption><p>Elite - The Pinnacle of Rewards Generation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Elite - The Pinnacle of Rewards Generation</p></figcaption></figure>
 
 ***
 

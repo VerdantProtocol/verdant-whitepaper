@@ -1,11 +1,13 @@
 ---
 description: >-
-  Welcome to the Verdant Arcadium, a retro-fueled playground nestled in the
-  pixelated underbelly of Project Verdant.
+  Welcome to Arcadium, a retro-fueled playground nestled in the pixelated
+  underbelly of Verdant World. The stakes are high, the rewards are even higher!
 icon: gamepad
 ---
 
 # Arcadium
+
+<figure><img src="../.gitbook/assets/ChatGPT Image Apr 16, 2025, 01_11_56 AM.png" alt=""><figcaption><p>Arcadium - You know what they say above wife-changing money ;)</p></figcaption></figure>
 
 ***
 

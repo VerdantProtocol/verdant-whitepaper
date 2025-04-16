@@ -29,11 +29,13 @@ Rewards are paid out continuously in _**Verdite ($VDT)**_ - not to be confused w
 
 ### Miner Details
 
-<table><thead><tr><th width="99">Tier</th><th width="91">Yearly ROI</th><th width="89">Max Units</th><th width="155">Rewards/Week</th><th width="165">Cost</th><th width="157">Maintenance/Week</th></tr></thead><tbody><tr><td>Basic</td><td>406%</td><td>5</td><td>194,444 <strong>$VDT</strong></td><td>500,000 <strong>$BLM</strong> </td><td>4000 <strong>$BLM</strong></td></tr><tr><td>Advanced</td><td>608%</td><td>3</td><td>2,916,667 <strong>$VDT</strong></td><td>5,000,000 <strong>$BLM</strong></td><td>60,000 <strong>$BLM</strong></td></tr><tr><td>Elite</td><td>1217%</td><td>1</td><td>58,333,333 <strong>$VDT</strong></td><td>50,000,000 <strong>$BLM</strong></td><td>2,000,000 <strong>$BLM</strong></td></tr></tbody></table>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Elite - The Pinnacle of Rewards Generation</p></figcaption></figure>
+
+<table><thead><tr><th width="99">Tier</th><th width="91">Yearly ROI</th><th width="89">Max Units</th><th width="135">Storage Cap</th><th width="155">Rewards/Week</th><th width="165">Cost</th><th width="157">Maintenance/Week</th></tr></thead><tbody><tr><td>Basic</td><td>406%</td><td>5</td><td>5000 <em><strong>$VDT</strong></em></td><td>194,444 <strong>$VDT</strong></td><td>500,000 <strong>$BLM</strong> </td><td>4000 <strong>$BLM</strong></td></tr><tr><td>Advanced</td><td>608%</td><td>3</td><td>50000 <em><strong>$VDT</strong></em></td><td>2,916,667 <strong>$VDT</strong></td><td>5,000,000 <strong>$BLM</strong></td><td>60,000 <strong>$BLM</strong></td></tr><tr><td>Elite</td><td>1217%</td><td>1</td><td>500000 <em><strong>$VDT</strong></em></td><td>58,333,333 <strong>$VDT</strong></td><td>50,000,000 <strong>$BLM</strong></td><td>2,000,000 <strong>$BLM</strong></td></tr></tbody></table>
 
 > 💡 Info: Rewards are paid out in _**$VDT**_, but maintenance can only be paid in _**$BLM**_. _**$VDT**_ must be refined into _**$VDNT**_, and exchanged for _**$BLM**_. You cannot convert _**$VDT**_ directly into _**$BLM**_.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Elite - The Pinnacle of Rewards Generation</p></figcaption></figure>
+_**Storage Cap**_ - The total amount of $VDT a miner can hold before rewards stop accumulating. Miners must be emptied regularly to avoid missing out on rewards - emptying doesn't mean refining.
 
 ***
 
@@ -41,7 +43,7 @@ Rewards are paid out continuously in _**Verdite ($VDT)**_ - not to be confused w
 
 * **Generation:** Miners begin generating _**Verdite**_ the moment they’re deployed.
 * **Maintenance:** You must pay to maintain your miner(s) every 7 days. Each miner has 2 Health Bars - these cannot be restored without ultra-rare _**Mythic Items**_. If you miss payment on 2 maintenance windows back-to-back, the miner _**self-destructs**_.
-* **Perseverance:** Provided you keep to the maintenance schedule, your miners will last indefinitely.
+* **Perseverance:** Provided you keep to the maintenance schedule, your miners will last indefinitely. Don't forget to empty the miners once in a while, either, otherwise you'll be losing out on precious rewards.
 * **Expansion:** Refine your _**Verdite,**_ exchange your _**Verdant**_ for _**Bloom**_ and expand your miner arsenal. Unlock new heights!
 
 ***

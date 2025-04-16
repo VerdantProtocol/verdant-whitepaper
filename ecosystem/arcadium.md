@@ -11,19 +11,17 @@ icon: gamepad
 
 ***
 
-### What is the arcadium
+### Gameplay
 
-The Arcadium is a suite of **on-chain, 8-bit-style minigames** built directly into the Verdant ecosystem. Every game in the Arcadium uses **Bloom** ($BLM). \
-\
-The Arcadium will feature both single and multi-player games so you can compete with your friends.
+_**Arcadium**_ comprises of a game world - the longer-term plan for _**Verdant**_ - a casino and various mini-games. The currency for the game world, and casino, is _**Bloom ($BLM)**_.
 
-Players can wager tokens, earn rare rewards, unlock cosmetics, or simply risk it all for glory.
+_**Arcadium**_ will feature both singleplayer and multiplayer games, player-vs-player and player-vs-enemy.&#x20;
 
 ***
 
 ### Key Features
 
-* The 8-bit world of Verdant is just beginning — beneath the arcadium lies fertile ground for a full-blown on-chain RPG, where your miners become characters, your yield becomes an in-game currency with insane utility, and **The Arcadium** evolves into a living, breathing pixel economy.
+* _**Verdant World**_ - Explore the vast expanse of Verdant. Interact with your miners, embark on adventures and discover hidden rewards.&#x20;
 * **Play-to-Burn**: Tokens collected inhouse by the house edge are burned! Creating deflationary pressure and a sink for $VDNT.
 * **Gamified Yield**: Instead of just passively earning, users can multiply or lose rewards through skill or luck.
 * **Cosmetics & Utility Items**: Unlock special skins, power-ups, or vanity assets by participating in arcadium events.
@@ -32,13 +30,7 @@ Players can wager tokens, earn rare rewards, unlock cosmetics, or simply risk it
 
 ### Sample Games
 
-| Game                      | Mechanics                                                                              | Burn Model                        |
-| ------------------------- | -------------------------------------------------------------------------------------- | --------------------------------- |
-| **Crash**                 | Ride the multiplier rocket, cash out before it crashes                                 | Burn % of losing bets             |
-| **Flip**                  | High-speed coinflip duels with 2–4 players                                             | Winner takes pot, house burns cut |
-| Landmine                  | Pick safe tiles to increase multiplier. Hit a landmine and lose all. Cash out anytime. | Burn tokens on lost plays.        |
-| **Roulette**              | Classic 8-bit wheel-of-doom RNG                                                        | Every spin has a % to burn        |
-| **Rock, Paper, Scissors** | PvP rock paper scissors. Trust me, it gets heated!                                     | Winner takes pot, house burns cut |
+<table><thead><tr><th>Game</th><th>Mechanics</th><th width="260">Burn Model</th></tr></thead><tbody><tr><td><strong>Crash</strong></td><td>Ride the multiplier rocket, cash out before it crashes</td><td>Burn % of losing bets</td></tr><tr><td><strong>Flip</strong></td><td>High-speed coinflip duels with 2–4 players</td><td>Winner takes pot, house burns cut</td></tr><tr><td>Landmine</td><td>Pick safe tiles to increase multiplier. Hit a landmine and lose all. Cash out anytime.</td><td>Burn tokens on lost plays.</td></tr><tr><td><strong>Roulette</strong></td><td>Classic 8-bit wheel-of-doom RNG</td><td>Every spin has a % to burn</td></tr><tr><td><strong>Rock, Paper, Scissors</strong></td><td>PvP rock paper scissors. Trust me, it gets heated!</td><td>Winner takes pot, house burns cut</td></tr></tbody></table>
 
 > 👾 New games roll out seasonally, each with its own leaderboard, prize pool, and meta.
 
@@ -55,9 +47,9 @@ Each season, the Arcadium features unique events:
 
 ***
 
-### Why the ArcadiumMatters
+### Why the Arcadium Matters
 
-The Arcadium is more than just fun. It’s part of Verdant’s core sustainability loop:
+The Arcadium is more than just fun. It’s part of Verdants core sustainability loop:
 
 * Recycles passive rewards into active gameplay
 * Burns tokens on every play, lowering inflation

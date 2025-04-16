@@ -22,7 +22,9 @@ icon: coin
 
 <table><thead><tr><th width="302">Action</th><th width="85">Tax</th><th>Effect</th></tr></thead><tbody><tr><td>Buying $VDNT</td><td>10%</td><td>Buy Tax - Protocol Fee</td></tr><tr><td>Selling $VDNT</td><td>10%</td><td>Sell Tax - Discourages quick exits</td></tr><tr><td>Exchanging $VDNT for $BLM</td><td>10%</td><td>Conversion Tax - Stabilizes compounding</td></tr><tr><td>Refining $VDT to $VDNT</td><td>10%</td><td>Rewards Tax - Moderates gains from miners</td></tr></tbody></table>
 
-Taxes are critical for Verdant World to function sustainably. They work as a function of moderating rewards generation. The goal is to offer lucrative ROI, whilst not destabilizing the protocol. Without them, people would scale exponentially faster and hyper-deflation would set in.
+Taxes are critical for Verdant World to function sustainably. They work as a function of moderating rewards generation. The goal is to offer lucrative ROI, whilst not destabilizing the protocol. Without the tax structure, people would scale exponentially faster and hyper-deflation would set in.
+
+In addition, taxes enable us to develop infrastructure more rapidly and pay for marketing. They are a necessary mechanism for ensuring project health.
 
 ***
 

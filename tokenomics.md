@@ -32,10 +32,9 @@ In addition, taxes enable us to develop infrastructure more rapidly and pay for 
 
 <figure><img src=".gitbook/assets/Bloom (2).png" alt="" width="256"><figcaption><p><strong>Bloom ($BLM)</strong></p></figcaption></figure>
 
-* **In-Game Utility Token** used to purchase miners and pay maintenance.
-* Converted 1:1,000 from VDNT. (i.e. 1 VDNT = 1,000 BLM)
-* Burned and consumed through miner upkeep and upgrades.
-* Also used in the Arcade to play games and access limited features.
+* **Utility Token & Primary Currency** for Verdant World.
+* Consumed through deployment of miners, payment of miner maintenance fees and participation in Arcadium.
+* Converted at 1:1,000 from $VDNT. (I.E. 1 $VDNT = 1,000 BLM).
 
 #### 🔁Role of Bloom
 

@@ -43,10 +43,11 @@ _**Algorithmic Scaling**_ - Whilst Verdant does not feature any inflation mechan
 
 ### How Miners Work
 
-* **Generation:** Miners begin generating _**Verdite**_ the moment they’re deployed.
-* **Maintenance:** You must pay to maintain your miner(s) every 7 days. Each miner has 2 Health Bars - these cannot be restored without ultra-rare _**Mythic Items**_. If you miss payment on 2 maintenance windows back-to-back, the miner _**self-destructs**_.
-* **Perseverance:** Provided you keep to the maintenance schedule, your miners will last indefinitely. Don't forget to empty the miners once in a while, either, otherwise you'll be losing out on precious rewards.
+* **Deployment:** Once deployed, Miners begin generating rewards in _**Verdite**_.
+* Management: As Verdite accumulates in your Miner(s), their storages fill. Once their storages are full, they can no longer accumulate rewards. Empty miner storages regularly to prevent precious rewards being lost.
+* **Maintenance:** Miners require weekly maintenance. Each miner has 2 Health Bars - these cannot be restored without ultra-rare _**Mythic Items**_. Missing two weeks of maintenance results in the miner _**self-destructing**_.
 * **Expansion:** Refine your _**Verdite,**_ exchange your _**Verdant**_ for _**Bloom**_ and expand your miner arsenal. Unlock new heights!
+* **Perseverance:** Following the rules will see your miners last indefinitely, and you will receive bountiful supply of rewards.
 
 ***
 

@@ -37,6 +37,8 @@ Rewards are paid out continuously in _**Verdite ($VDT)**_ - not to be confused w
 
 _**Storage Cap**_ - The total amount of $VDT a miner can hold before rewards stop accumulating. Miners must be emptied regularly to avoid missing out on rewards - emptying doesn't mean refining.
 
+_**Algorithmic Scaling**_ - Whilst Verdant does not feature any inflation mechanics, we deploy algorithmic-scaling to ensure the rewards (and cost) of miners do not overwhelm the ETH reserves in the liquidity pool. Effectively, the cost and rewards do not linearly scale - they do not remain a fixed value. Values gradually fall as we cross the 8-figure market cap threshold, along with rewards. However, these values fall from what they would be provided linear scaling, not from your purchase price. In simple terms, cost and rewards still go up as the price goes up, but stop going up as much once certain thresholds are hit.
+
 ***
 
 ### How Miners Work

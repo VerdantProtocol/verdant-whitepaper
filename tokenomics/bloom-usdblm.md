@@ -15,7 +15,7 @@ icon: rocket-launch
 | **Token Symbol**           | $VDNT           |
 | **Total Maximum Supply**   | 21,000,000 VDNT |
 | **Initial Tokens in Pool** | 8,400,000 VDNT  |
-| **Initial Liquidity**      | $10,000 (USDC)  |
+| **Initial Liquidity**      | $10,000 (ETH)   |
 | **Initial Price**          | $0.00119 / VDNT |
 | **Initial Market Cap**     | $25,000         |
 | **Protocol Reserve**       | 12,600,000 VDNT |

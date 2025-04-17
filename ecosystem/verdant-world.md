@@ -53,6 +53,8 @@ _**Algorithmic Scaling**_ - Whilst Verdant does not feature any inflation mechan
 
 ### Miner Health
 
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Miner Health - Seen indicated through hearts</p></figcaption></figure>
+
 Each miner has only 2 _**Health Bars**_. A _**Health Bar**_ is lost when you fail to make your weekly maintenance payment. Once a miner has lost 2 _**Health Bars**_, it will _**self-destruct**_. You will then have to purchase a brand new one.
 
 * 🔧 **1 Missed Repair** = 1 Health Bar Lost

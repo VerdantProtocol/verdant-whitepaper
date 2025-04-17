@@ -49,6 +49,8 @@ _**Algorithmic Scaling**_ - Whilst Verdant does not feature any inflation mechan
 * **Expansion:** Refine your _**Verdite,**_ exchange your _**Verdant**_ for _**Bloom**_ and expand your miner arsenal. Unlock new heights!
 * **Perseverance:** Following the rules will see your miners last indefinitely, and you will receive bountiful supply of rewards.
 
+> 📈 **ZERO-INFLATION** - Verdant World does not feature any inflationary mechanics.
+
 ***
 
 ### Miner Health

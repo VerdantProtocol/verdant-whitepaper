@@ -78,9 +78,10 @@ Alice begins her adventure in _**Verdant World**_:
 
 1. She buys her first miner, a _**Basic Miner**_ for **500,000&#x20;**_**$BLM**_
 2. She earns \~28,000 _**$VDT**_ each day and maintains it weekly for only \~3900 _**$BLM**_
-3. She carefully managed her rewards and spends them on more miners when possible
-4. Within a few weeks she obtains all _**Basic Miners**_ and graduates to _**Advanced Miners**_
-5. Alice keeps mining away until she eventually reaches the _**Elite Miners**_
+3. She collects her _**$VDT**_ and only exchanges enough into _**$VDNT**_ to cover her maintenance costs
+4. Alice has enough _**$VDT**_ to afford more _**Basic Miners**_ and fills more of her inventory with them
+5. Within a few weeks she has obtained all _**Basic Miners**_ and graduates to _**Advanced Miners**_
+6. Alice keeps mining away until she eventually reaches the _**Elite Miners**_
 
 ***
 

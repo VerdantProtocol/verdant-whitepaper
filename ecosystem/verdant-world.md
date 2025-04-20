@@ -76,8 +76,8 @@ There exists a _**Mythic Item**_ - Perfect Repair Kit - that can restore a damag
 
 Alice begins her adventure in _**Verdant World**_:
 
-1. She buys her first miner, a _**Basic Miner**_ for **50,000&#x20;**_**$BLM**_
-2. She earns 5.56 _**$VDT**_ each day and maintains it weekly for only 4000 _**$BLM**_
+1. She buys her first miner, a _**Basic Miner**_ for **500,000&#x20;**_**$BLM**_
+2. She earns \~28,000 _**$VDT**_ each day and maintains it weekly for only \~3900 _**$BLM**_
 3. She carefully managed her rewards and spends them on more miners when possible
 4. Within a few weeks she obtains all _**Basic Miners**_ and graduates to _**Advanced Miners**_
 5. Alice keeps mining away until she eventually reaches the _**Elite Miners**_

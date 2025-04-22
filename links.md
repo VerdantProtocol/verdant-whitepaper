@@ -24,7 +24,7 @@ icon: link
 
 #### 📢 **Community**
 
-* 📣 **Telegram**: [t.me/VerdantProtocol](https://t.me/VerdantProtocol)\
+* 📣 **Telegram**: [t.me/ProjectVerdant](https://t.me/ProjectVerdant)\
   &#xNAN;_&#x48;ang out with the community, get support, and catch early alpha._
 * 🐦 **Twitter/X**: [twitter.com/ProjectVerdant](https://x.com/ProjectVerdant)\
   &#xNAN;_&#x41;nnouncements, lore drops, patch notes, and memes._

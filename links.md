@@ -8,6 +8,8 @@ icon: link
 
 # Links
 
+
+
 ***
 
 #### 👨‍💻 Dev - Xipzer
@@ -33,5 +35,6 @@ icon: link
 
 #### 📊 **Charts & Analytics**
 
-* 📈 **DexScreener Chart**: Coming soon...\
-  &#xNAN;_&#x4C;ive $VDNT price, volume, and liquidity metrics._
+* 📈 **DexScreener Chart**: [https://dexscreener.com/abstract/0x400f6564f4b00d8ba85200515a1edd850480dcf5](https://dexscreener.com/abstract/0x400f6564f4b00d8ba85200515a1edd850480dcf5)
+
+\

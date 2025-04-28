@@ -13,7 +13,7 @@ _**Verdant**_ isn’t your average farm-and-dump DeFi scheme. It’s a living, b
 
 > “This is about life, death and the will to persevere. Will you embark on your Verdant Adventure?”
 
-<div data-full-width="false"><figure><img src=".gitbook/assets/Main (1).png" alt="" width="384"><figcaption><p>Verdant ($VDNT) - The Core Currency</p></figcaption></figure></div>
+<div data-full-width="false"><figure><img src=".gitbook/assets/photo_2025-04-28_15-04-52.jpg" alt=""><figcaption><p>Verdant ($VDNT) - The Core Currency</p></figcaption></figure></div>
 
 ### Overview
 

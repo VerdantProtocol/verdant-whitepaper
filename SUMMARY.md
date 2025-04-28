@@ -18,4 +18,5 @@
 
 * [Roadmap](roadmap.md)
 * [Links](links.md)
+* [Contracts](contracts.md)
 * [Glossary](glossary.md)

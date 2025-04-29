@@ -7,7 +7,7 @@ icon: earth-americas
 
 # Verdant World
 
-<figure><img src="../../.gitbook/assets/photo_2025-04-28_15-04-52.jpg" alt=""><figcaption><p>Verdant world is powered by $VDNT - The native currency of Project Verdant</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo_2025-04-28_15-04-52.jpg" alt=""><figcaption><p>Verdant world is powered by $VDNT - The native currency of Project Verdant</p></figcaption></figure>
 
 ***
 
@@ -32,7 +32,7 @@ Rewards are paid out continuously in _**Verdite ($VDT)**_ - not to be confused w
 
 ### Miner Details
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Elite - The Pinnacle of Rewards Generation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Elite - The Pinnacle of Rewards Generation</p></figcaption></figure>
 
 <table data-full-width="false"><thead><tr><th align="center">Tier</th><th align="center">Yearly ROI</th><th align="center">Max Units</th><th align="center">Rewards Capacity</th></tr></thead><tbody><tr><td align="center">Basic</td><td align="center">406%</td><td align="center">20</td><td align="center">14,000 <strong>$VDT</strong></td></tr><tr><td align="center">Advanced</td><td align="center">608%</td><td align="center">15</td><td align="center">200,000 <strong>$VDT</strong></td></tr><tr><td align="center">Elite</td><td align="center">1217%</td><td align="center">10</td><td align="center">4,200,000 <strong>$VDT</strong></td></tr></tbody></table>
 
@@ -61,8 +61,6 @@ _**Algorithmic Scaling**_ - Verdant does not feature any inflation mechanics. Th
 ***
 
 ### Miner Health
-
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Miner Health - Seen indicated through hearts</p></figcaption></figure>
 
 Each miner has only 2 _**Health Bars**_. A _**Health Bar**_ is lost when you fail to make your weekly maintenance payment. Once a miner has lost 2 _**Health Bars**_, it will _**self-destruct**_. You will then have to purchase a brand new one.
 

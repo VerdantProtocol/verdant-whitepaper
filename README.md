@@ -7,6 +7,8 @@ icon: sun
 
 # Welcome to Project Verdant
 
+<figure><img src=".gitbook/assets/Banner gif dex.gif" alt=""><figcaption></figcaption></figure>
+
 ## Welcome To Verdant
 
 **Project Verdant** is a dynamic, player-driven ecosystem combining high-stakes miner gameplay with thrilling PvP mechanics and an insane 8-bit MMORPG experience. Players can build and defend their mining operations, strategically attack rivals, and earn real rewards, all while exploring the evolving Verdant World. \

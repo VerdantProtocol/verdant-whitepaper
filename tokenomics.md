@@ -54,18 +54,7 @@ In addition, taxes enable us to develop infrastructure more rapidly and pay for 
 
 ***
 
-### Economic Flywheel
-
-The core Verdant loop works like this:
-
-1. 💳 **Buy $VDNT** (entry point into the ecosystem — taxed 10%)
-2. 🔄 **Convert $VDNT → BLM** (used for all in-game activity — taxed 10%)
-3. ⛏️ **Use BLM to buy miners**
-4. 💰 **Miners generate $VDT daily**
-5. 🔁 **Claim $VDT → Refine into $VDNT** (taxed 10%)
-6. 🔄 **Convert $VDNT → BLM** again to maintain or expand your miner fleet (taxed 10%)
-7. 🎮 **Optionally, spend $VDNT in the Arcadium** — Verdant’s retro-style game hub
-8. 🔥 **Taxes, burns, and token sinks** across the system reduce inflation and support long-term sustainability
+###
 
 ***
 

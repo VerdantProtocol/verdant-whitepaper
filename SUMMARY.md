@@ -6,7 +6,7 @@
 
 ## Ecosystem
 
-* [Verdant World](ecosystem/verdant-world/README.md)
+* [Verdant World](ecosystem/verdant-world.md)
   * [Tokens & Conversions](ecosystem/verdant-world/tokens-and-conversions.md)
   * [Miners](ecosystem/verdant-world/miners.md)
   * [Items](ecosystem/verdant-world/items.md)

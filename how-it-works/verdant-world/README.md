@@ -11,11 +11,11 @@ Verdant World is the foundation of the Project Verdant ecosystem — a competiti
 
 <figure><img src="../../.gitbook/assets/Vex and penguin walk (1).gif" alt=""><figcaption></figcaption></figure>
 
-### Verdant World breaks down into four core parts: **Tokens**, **Miners**, **Items**, and **Rules**
+### Verdant consists of four core parts: **Tokens**, **Miners**, **Items**, and **Rules**
 
 ***
 
-{% tabs fullWidth="true" %}
+{% tabs fullWidth="false" %}
 {% tab title="The Tokens" %}
 
 

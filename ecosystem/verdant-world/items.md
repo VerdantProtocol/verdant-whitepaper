@@ -6,11 +6,11 @@ description: >-
 
 # Items
 
+<figure><img src="../../.gitbook/assets/fightttt.png" alt=""><figcaption></figcaption></figure>
+
 Items introduce a dynamic layer of PvP strategy, allowing players to influence each other's yield&#x20;
 
 Items are categorized by rarity, which determines which miners they can affect:
-
-<figure><img src="../../.gitbook/assets/fightttt.png" alt=""><figcaption></figcaption></figure>
 
 * **Promotional (Starter)** — Exclusive to Starter miners (airdrop only).
 * **Common (Basic)** — Works only on Basic miners.

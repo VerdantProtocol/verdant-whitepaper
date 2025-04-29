@@ -12,9 +12,9 @@ Miners are the core yield-generating assets within Verdant World. Players deploy
 
 ## <mark style="color:yellow;">The four types of Miners</mark>
 
-<div><figure><img src="../../.gitbook/assets/starter miner.png" alt=""><figcaption><p>Starter Miner - <strong>AIRDROP ONLY</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/basic miner.png" alt=""><figcaption><p>Basic Miner</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption><p>Starter Miner - <strong>AIRDROP ONLY</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption><p>Basic Miner</p></figcaption></figure></div>
 
-<div><figure><img src="../../.gitbook/assets/advanced miner.png" alt="" width="375"><figcaption><p>Advanced Miner</p></figcaption></figure> <figure><img src="../../.gitbook/assets/elite miner.png" alt="" width="375"><figcaption><p>Elite Miner</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption><p>Advanced Miner</p></figcaption></figure> <figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption><p>Elite Miner</p></figcaption></figure></div>
 
 ### Miner Pricing
 

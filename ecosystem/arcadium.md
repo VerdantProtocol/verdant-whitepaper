@@ -11,6 +11,8 @@ icon: gamepad
 
 ### Gameplay
 
+<figure><img src="../.gitbook/assets/frog.gif" alt=""><figcaption></figcaption></figure>
+
 _**Arcadium**_ comprises of a game world - the longer-term plan for _**Verdant**_ - a casino and various mini-games. The currency for the game world, and casino, is _**Bloom ($BLM)**_.
 
 _**Arcadium**_ will feature both singleplayer and multiplayer games, player-vs-player and player-vs-enemy.&#x20;

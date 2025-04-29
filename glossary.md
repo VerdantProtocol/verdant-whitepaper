@@ -9,6 +9,8 @@ icon: spell-check
 
 #### **$VDNT** (Verdant Token)
 
+<figure><img src=".gitbook/assets/vex dictionary.png" alt="" width="375"><figcaption></figcaption></figure>
+
 The native utility and governance token of Project Verdant. Used for accessing core mechanics, purchasing miners, and participating in the Verdant Arcade.
 
 ***
@@ -94,6 +96,6 @@ Taxes are applied to several key actions:
 
 #### **Arcadium**
 
-An 8-bit-styled game suite where users can spend $Bloom to play minigames. A portion of all $Bloom used is burned, and top players earn cosmetic items or prizes.
+An 8-bit-styled MMORPG game suite where users can spend $Bloom to play minigames, complete quests and more. A portion of all $Bloom used is burned, and top players earn cosmetic items or prizes.
 
 ***

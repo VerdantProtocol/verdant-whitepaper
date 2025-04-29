@@ -7,6 +7,8 @@ icon: road
 
 # Roadmap
 
+<figure><img src=".gitbook/assets/ChatGPT Image Apr 22, 2025, 12_08_10 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
 ### **Phase 1**&#x20;
 
 > _Establishing the foundation of Verdant’s economy and game loop_

@@ -45,8 +45,6 @@ Arcadium is the **gamified environment layer** of the Verdant ecosystem — an e
 
 ***
 
-<figure><img src="../.gitbook/assets/ChatGPT Image Apr 28, 2025, 11_52_18 PM.png" alt="" width="375"><figcaption><p>Vex in Vegas - Lady luck in smilin'</p></figcaption></figure>
-
 #### The Vision for Arcadium
 
 Arcadium is **not just a game hub** — it’s a fully connected, expanding MMORPG experience.\

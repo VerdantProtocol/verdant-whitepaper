@@ -7,7 +7,7 @@ icon: earth-americas
 
 # Verdant World
 
-<figure><img src="../.gitbook/assets/photo_2025-04-28_15-04-52.jpg" alt=""><figcaption><p>Verdant world is powered by $VDNT - The native currency of Project Verdant</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ChatGPT Image Apr 29, 2025, 12_47_17 AM.png" alt=""><figcaption><p>Verdant world is powered by $VDNT - The native currency of Project Verdant</p></figcaption></figure>
 
 ***
 

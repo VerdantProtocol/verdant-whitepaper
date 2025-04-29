@@ -49,14 +49,13 @@ The Verdant ecosystem uses a structured three-token system designed to support a
 
 The core Verdant loop works like this:
 
-1. 💳 **Buy $VDNT** (entry point into the ecosystem — taxed 10%)
-2. 🔄 **Convert $VDNT → BLM** (used for all in-game activity — taxed 10%)
-3. ⛏️ **Use BLM to buy miners**
-4. 💰 **Miners generate $VDT daily**
-5. 🔁 **Claim $VDT → Refine into $VDNT** (taxed 10%)
-6. 🔄 **Convert $VDNT → BLM** again to maintain or expand your miner fleet (taxed 10%)
-7. 🎮 **Optionally, spend $BLM in the Arcadium** — Verdant’s retro-style game hub
-8. 🔥 **Taxes, burns, and token sinks** across the system reduce inflation and support long-term sustainability
+1. **Buy $VDNT** - entry point into the ecosystem
+2. **Convert $VDNT → BLM**&#x20;
+3. **Use BLM to buy miners**
+4. **Miners generate $VDT daily**
+5. **Claim $VDT → Refine into $VDNT**&#x20;
+6. **Convert $VDNT → BLM** again to maintain or expand your miner fleet&#x20;
+7. **Optionally, spend $BLM in the Arcadium** — Verdant’s retro-style game hub
 {% endtab %}
 
 {% tab title="Miners" %}

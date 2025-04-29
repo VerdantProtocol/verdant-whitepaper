@@ -2,7 +2,6 @@
 description: >-
   Items in Verdant World are tools used to attack other players' miners or
   protect your own mining fleet.
-hidden: true
 ---
 
 # Items

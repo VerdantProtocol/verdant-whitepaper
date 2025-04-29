@@ -6,7 +6,7 @@ description: >-
 
 # Tokens & Conversions
 
-e Verdant ecosystem uses a structured three-token system designed to support a sustainable, net-deflationary economy:
+The Verdant ecosystem uses a structured three-token system designed to support a sustainable, net-deflationary economy:
 
 ## The three currencies of Verdant World
 

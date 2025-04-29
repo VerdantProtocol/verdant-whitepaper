@@ -10,6 +10,8 @@ Items introduce a dynamic layer of PvP strategy, allowing players to influence e
 
 Items are categorized by rarity, which determines which miners they can affect:
 
+<figure><img src="../../.gitbook/assets/fightttt.png" alt=""><figcaption></figcaption></figure>
+
 * **Promotional (Starter)** — Exclusive to Starter miners (airdrop only).
 * **Common (Basic)** — Works only on Basic miners.
 * **Rare (Advanced)** — Works only on Advanced miners.

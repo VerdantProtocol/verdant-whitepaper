@@ -4,18 +4,18 @@
 
 * [Welcome to Project Verdant](README.md)
 
-## How Project Verdant Works
+## How it works
 
-* [Verdant World](how-project-verdant-works/verdant-world/README.md)
-  * [Tokens & Conversions](how-project-verdant-works/verdant-world/tokens-and-conversions.md)
-  * [Miners](how-project-verdant-works/verdant-world/miners.md)
-  * [Items](how-project-verdant-works/verdant-world/items.md)
-  * [Rules of the Game](how-project-verdant-works/verdant-world/rules-of-the-game.md)
-* [Arcadium](how-project-verdant-works/arcadium.md)
+* [Verdant World](how-it-works/verdant-world/README.md)
+  * [Tokens & Conversions](how-it-works/verdant-world/tokens-and-conversions.md)
+  * [Miners](how-it-works/verdant-world/miners.md)
+  * [Items](how-it-works/verdant-world/items.md)
+  * [Rules of the Game](how-it-works/verdant-world/rules-of-the-game.md)
+* [Arcadium](how-it-works/arcadium.md)
 
 ## Additional Information
 
-* [Launch Figures](additional-information/launch-figures.md)
+* [Launch Figures](tokenomics/bloom-usdblm.md)
 
 ***
 

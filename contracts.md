@@ -2,7 +2,7 @@
 description: >-
   Verdant has a series of secure smart contracts that power the protocol from
   farming rewards to gameplay mechanics and more.
-icon: link
+icon: file-lock
 ---
 
 # Contracts

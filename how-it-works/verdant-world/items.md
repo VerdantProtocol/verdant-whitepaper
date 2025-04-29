@@ -17,9 +17,9 @@ Items are categorized by rarity, which determines which miners they can affect:
 * **Rare (Advanced)** — Works only on Advanced miners.
 * **Mythic (Elite)** — Works only on Elite miners.
 
-<div><figure><img src="../../.gitbook/assets/major_bomb_card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/major_shield_card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/minor_bomb_card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/minor_shield_card.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/major_bomb_card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/major_shield_card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/minor_bomb_card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/minor_shield_card.png" alt=""><figcaption></figcaption></figure></div>
 
-<div><figure><img src="../../.gitbook/assets/expansion_card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/morph_card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/restore_card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/revive_card.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/expansion_card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/morph_card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/restore_card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/revive_card.png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 

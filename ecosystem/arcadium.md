@@ -7,8 +7,6 @@ icon: gamepad
 
 # Arcadium
 
-<figure><img src="../.gitbook/assets/ChatGPT Image Apr 16, 2025, 01_11_56 AM.png" alt=""><figcaption><p>Arcadium - You know what they say above wife-changing money ;)</p></figcaption></figure>
-
 ***
 
 ### Gameplay

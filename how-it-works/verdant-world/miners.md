@@ -8,10 +8,6 @@ description: >-
 
 Miners are the core yield-generating assets within Verdant World. Players deploy miners to earn daily rewards, maintain their operations, and defend their holdings against PvP attacks. Each miner type has unique characteristics that impact strategy and potential returns.
 
-<figure><img src="../../.gitbook/assets/Cost 1.5% Max Units 10 Capacity time 8 Hours.gif" alt=""><figcaption></figcaption></figure>
-
-## The four types of Miners
-
 <div><figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure></div>
 
 <div><figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure></div>
@@ -42,6 +38,8 @@ Each miner has only 2 _**Health Bars**_. A _**Health Bar**_ is lost when you fai
 * 🪙 &#x57;_**eekly maintenance cost = 10% of Weekly ROI**_
 
 Weekly maintenance is paid in _**Bloom ($BLM)**_. Bloom can only be obtained through _**Arcadium**_ or by exchanging _**Verdant ($VDNT)**_.
+
+<figure><img src="../../.gitbook/assets/Cost 1.5% Max Units 10 Capacity time 8 Hours.gif" alt=""><figcaption></figcaption></figure>
 
 ### PvP Mechanics: Bombs and Shields
 

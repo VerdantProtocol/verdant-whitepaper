@@ -7,9 +7,9 @@ icon: earth-americas
 
 # Verdant World
 
-<figure><img src="../../.gitbook/assets/Vex and penguin walk (1).gif" alt=""><figcaption></figcaption></figure>
-
 Verdant World is the foundation of the Project Verdant ecosystem — a competitive, yield-generating environment where players manage miners, deploy strategies, and engage in PvP attacks. It blends DeFi mechanics with interactive gameplay, rewarding those who can adapt and thrive.
+
+<figure><img src="../../.gitbook/assets/Vex and penguin walk (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### Verdant World breaks down into four core parts: **Tokens**, **Miners**, **Items**, and **Rules**
 

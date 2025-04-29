@@ -7,11 +7,7 @@ icon: earth-americas
 
 # Verdant World
 
-<figure><img src="../../.gitbook/assets/ChatGPT Image Apr 29, 2025, 12_47_17 AM.png" alt=""><figcaption><p>Verdant world is powered by $VDNT - The native currency of Project Verdant</p></figcaption></figure>
-
-***
-
-Verdant World is the foundation of the Project Verdant ecosystem — a competitive, yield-generating environment where players manage miners, deploy strategies, and engage in PvP attacks. It blends DeFi mechanics with interactive gameplay, rewarding those who can adapt and thrive.
+nt World is the foundation of the Project Verdant ecosystem — a competitive, yield-generating environment where players manage miners, deploy strategies, and engage in PvP attacks. It blends DeFi mechanics with interactive gameplay, rewarding those who can adapt and thrive.
 
 ### Verdant World breaks down into four core parts: **Tokens**, **Miners**, **Items**, and **Rules**
 
@@ -65,9 +61,9 @@ Miners are the core yield-generating assets within Verdant World. Players deploy
 
 ## The four types of Miners
 
-<div><figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption><p>Starter Miner - <strong>AIRDROP ONLY</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption><p>Basic Miner</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure></div>
 
-<div><figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption><p>Advanced Miner</p></figcaption></figure> <figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption><p>Elite Miner</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Miner Pricing
 

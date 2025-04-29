@@ -7,7 +7,7 @@ icon: sun
 
 # Welcome to Project Verdant
 
-<figure><img src=".gitbook/assets/Banner gif dex.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Banner gif dex (1).gif" alt=""><figcaption></figcaption></figure>
 
 ## Welcome To Verdant
 

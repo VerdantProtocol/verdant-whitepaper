@@ -7,7 +7,7 @@ icon: road
 
 # Roadmap
 
-<figure><img src=".gitbook/assets/ChatGPT Image Apr 22, 2025, 12_08_10 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<div align="center"><figure><img src=".gitbook/assets/vex gif.gif" alt="" width="300"><figcaption></figcaption></figure></div>
 
 ### **Phase 1**&#x20;
 

@@ -17,6 +17,8 @@ icon: link
 * [t.me/Xipzer](https://t.me/Xipzer)
 * [x.com/Xipzer](https://x.com/Xipzer)
 
+***
+
 #### 🌐 **Verdant Hub**
 
 * 💻 **dApp**: [www.projectverdant.com](https://www.projectverdant.com/)\

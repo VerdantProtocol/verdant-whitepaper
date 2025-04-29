@@ -71,7 +71,7 @@ Miners are the core yield-generating assets within Verdant World. Players deploy
 
 Miners are purchased using **$BLM**. Pricing is based on a **fixed percentage of the $VDNT liquidity pool**, meaning miner prices scale with $VDNT's price growth — but not exponentially — keeping access fair for all players.
 
-<mark style="color:yellow;">**Example:**</mark>\
+<mark style="color:blue;">**Example:**</mark>\
 If the liquidity pool contains 100,000 $VDNT, an Elite Miner (1.5%) costs **1,500 $VDNT**.\
 Since miners are bought with $BLM, the player pays **1,500 × 1,000 = 1,500,000 $BLM**.
 

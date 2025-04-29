@@ -11,7 +11,7 @@ Verdant World is the foundation of the Project Verdant ecosystem — a competiti
 
 <figure><img src="../../.gitbook/assets/Vex and penguin walk (1).gif" alt=""><figcaption></figcaption></figure>
 
-**Verdant consists of four core parts:**
+### **Verdant consists of four core parts:**
 
 > ## [<mark style="color:blue;">TOKENS & CONVERSIONS</mark>](https://project-verdant.gitbook.io/whitepaper/how-it-works/verdant-world/tokens-and-conversions) <a href="#https-app.gitbook.com-o-djayiipj1o2szilj6clo-s-4g4yfvdlxe0rlljqwylv-changes-114-how-it-works-verdant" id="https-app.gitbook.com-o-djayiipj1o2szilj6clo-s-4g4yfvdlxe0rlljqwylv-changes-114-how-it-works-verdant"></a>
 >

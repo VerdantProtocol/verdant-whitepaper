@@ -1,7 +1,7 @@
 ---
 description: >-
-  Verdant merges mining, PvP strategy, and 8-bit adventure into one seamless,
-  evolving world.
+  Verdant merges mining, PvP strategy, and an 8-bit MMORPG adventure into one
+  seamless, evolving world.
 icon: sun
 ---
 

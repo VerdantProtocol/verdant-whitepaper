@@ -15,7 +15,7 @@ The Verdant ecosystem uses a structured three-token system designed to support a
 * <mark style="color:green;">**$VDNT (Verdant) - 0x6e7038eb0F16c75785c43b69A0803C0eA59739DB:**</mark>\
   The native, tradable token of the ecosystem. Players acquire $VDNT through exchanges like Reservoir Swap. It serves as the primary entry point into Project Verdant. <mark style="color:red;">**THE ONLY TRADEABLE TOKEN ON PROJECT VERDANT.**</mark>\
   \
-  <mark style="color:blue;">**Verdant has a maximum supply of 21,000,000**</mark>\
+  <mark style="color:yellow;">**Verdant - $VDNT - has a maximum supply of 21,000,000**</mark>\
 
 * <mark style="color:red;">**$BLM (Bloom):**</mark>\
   The in-world utility token and primary currency for Verdant World and Arcadium activities. Players **convert $VDNT into $BLM** at a fixed rate of **1 $VDNT = 1,000 $BLM**. Bloom is used to purchase miners, pay maintenance fees, buy items, and participate in games.\

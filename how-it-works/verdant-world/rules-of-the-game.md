@@ -10,7 +10,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/ChatGPT Image Apr 29, 2025, 03_24_58 AM.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:yellow;">**To maintain fairness and strategic depth, Verdant World enforces the following PvP rules:**</mark>
+**To maintain fairness and strategic depth, Verdant World enforces the following PvP rules:**
 
 1. **Grace Period:**\
    After a miner is bombed but survives (still has shields > 0), it becomes **immune to further attacks for 24 hours**.

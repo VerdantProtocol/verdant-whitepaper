@@ -17,40 +17,9 @@ Items are categorized by rarity, which determines which miners they can affect:
 * **Rare (Advanced)** — Works only on Advanced miners.
 * **Mythic (Elite)** — Works only on Elite miners.
 
-#### Item Types
+<div><figure><img src="../../.gitbook/assets/major_bomb_card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/major_shield_card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/minor_bomb_card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/minor_shield_card.png" alt=""><figcaption></figcaption></figure></div>
 
-* **Minor Bomb**
-  * **Cost:** 1% of Miner Cost
-  * **Effect:** Destroys **1 shield** on a miner.
-  * **Inventory Limit:** 99 units
-* **Major Bomb**
-  * **Cost:** 2% of Miner Cost
-  * **Effect:** Destroys **2 shields** on a miner.
-  * **Inventory Limit:** 99 units
-* **Minor Shield**
-  * **Cost:** 10% of daily yield × E-ROI
-  * **Effect:** Adds **1 shield** to a miner.
-  * **Inventory Limit:** 99 units
-* **Major Shield**
-  * **Cost:** 20% of daily yield × E-ROI
-  * **Effect:** Adds **2 shields** to a miner.
-  * **Inventory Limit:** 99 units
-* **Restore**
-  * **Cost:** 40% of Miner Cost
-  * **Effect:** Adds **1 life** back to an active miner.
-  * **Inventory Limit:** 99 units
-* **Revive**
-  * **Cost:** 15% of Miner Cost × E-ROI
-  * **Effect:** Revives **disabled** miners back into active status.
-  * **Inventory Limit:** 99 units
-* **Morph**
-  * **Cost:** Not purchasable
-  * **Effect:** Upgrades a miner to the **next rarity tier**.
-  * **Inventory Limit:** 1 unit
-* **Expansion**
-  * **Cost:** 5% of Miner Cost
-  * **Effect:** Adds **+1 miner slot**, increasing your miner capacity.
-  * **Inventory Limit:** 99 units
+<div><figure><img src="../../.gitbook/assets/expansion_card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/morph_card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/restore_card.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/revive_card.png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 

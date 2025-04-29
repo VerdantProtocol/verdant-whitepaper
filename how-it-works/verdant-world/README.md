@@ -13,19 +13,19 @@ Verdant World is the foundation of the Project Verdant ecosystem — a competiti
 
 ### **Verdant consists of four core parts:**
 
-> ## [<sub><mark style="color:blue;">TOKENS & CONVERSIONS<mark style="color:blue;"></sub>](https://project-verdant.gitbook.io/whitepaper/how-it-works/verdant-world/tokens-and-conversions) <a href="#https-app.gitbook.com-o-djayiipj1o2szilj6clo-s-4g4yfvdlxe0rlljqwylv-changes-114-how-it-works-verdant" id="https-app.gitbook.com-o-djayiipj1o2szilj6clo-s-4g4yfvdlxe0rlljqwylv-changes-114-how-it-works-verdant"></a>
+> ## [<sub>TOKENS & CONVERSIONS</sub>](tokens-and-conversions.md) <a href="#https-app.gitbook.com-o-djayiipj1o2szilj6clo-s-4g4yfvdlxe0rlljqwylv-changes-114-how-it-works-verdant" id="https-app.gitbook.com-o-djayiipj1o2szilj6clo-s-4g4yfvdlxe0rlljqwylv-changes-114-how-it-works-verdant"></a>
 >
 > ***
 >
-> ## [<sub><mark style="color:blue;">MINERS<mark style="color:blue;"></sub>](https://project-verdant.gitbook.io/whitepaper/how-it-works/verdant-world/miners)
+> ## [<sub>MINERS</sub>](miners.md)
 >
 > ***
 >
-> ## [<sub><mark style="color:blue;">ITEMS<mark style="color:blue;"></sub>](https://project-verdant.gitbook.io/whitepaper/how-it-works/verdant-world/items)
+> ## [<sub>ITEMS</sub>](items.md)
 >
 > ***
 >
-> ## [<sub><mark style="color:blue;">RULES OF THE GAME<mark style="color:blue;"></sub>](https://project-verdant.gitbook.io/whitepaper/how-it-works/verdant-world/rules-of-the-game)
+> ## [<sub>RULES OF THE GAME</sub>](rules-of-the-game.md)
 >
 > ***
 

@@ -7,7 +7,7 @@ icon: link
 
 # Contracts
 
-<figure><img src=".gitbook/assets/ChatGPT Image Apr 29, 2025, 12_37_30 AM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/vex code.gif" alt=""><figcaption></figcaption></figure>
 
 1. **Verdant ($VDNT)**   \
    0x6e7038eb0F16c75785c43b69A0803C0eA59739DB (https://abscan.org/address/0x6e7038eb0F16c75785c43b69A0803C0eA59739DB)

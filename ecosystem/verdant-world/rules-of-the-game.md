@@ -2,6 +2,7 @@
 description: >-
   Failure to prepare is preparing to fail. Make sure you're familiar with the
   rule book.
+hidden: true
 ---
 
 # Rules of the Game

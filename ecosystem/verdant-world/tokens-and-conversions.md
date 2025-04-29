@@ -2,6 +2,7 @@
 description: >-
   Three prominent kings of Babylon each bought with them one gift. Verdant,
   Bloom and Verdite.
+hidden: true
 ---
 
 # Tokens & Conversions

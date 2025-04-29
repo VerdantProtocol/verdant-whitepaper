@@ -2,6 +2,7 @@
 description: >-
   Verdant World’s miner system rewards smart management, aggressive defence, and
   tactical offense.
+hidden: true
 ---
 
 # Miners

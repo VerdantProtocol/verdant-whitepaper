@@ -8,6 +8,8 @@ description: >-
 
 Miners are the core yield-generating assets within Verdant World. Players deploy miners to earn daily rewards, maintain their operations, and defend their holdings against PvP attacks. Each miner type has unique characteristics that impact strategy and potential returns.
 
+## The four types of Miners
+
 <div><figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure></div>
 
 <div><figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure></div>

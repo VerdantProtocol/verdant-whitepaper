@@ -7,7 +7,7 @@ icon: earth-americas
 
 # Verdant World
 
-<figure><img src="../.gitbook/assets/ChatGPT Image Apr 29, 2025, 12_47_17 AM.png" alt=""><figcaption><p>Verdant world is powered by $VDNT - The native currency of Project Verdant</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ChatGPT Image Apr 29, 2025, 12_47_17 AM.png" alt=""><figcaption><p>Verdant world is powered by $VDNT - The native currency of Project Verdant</p></figcaption></figure>
 
 ***
 
@@ -25,7 +25,7 @@ The Verdant ecosystem uses a structured three-token system designed to support a
 
 ## The three currencies of Verdant World
 
-<div><figure><img src="../.gitbook/assets/VDNTcoin.png" alt="" width="150"><figcaption><p><strong>VERDANT</strong></p></figcaption></figure> <figure><img src="../.gitbook/assets/BloomCoin.png" alt="" width="150"><figcaption><p><strong>BLOOM</strong></p></figcaption></figure> <figure><img src="../.gitbook/assets/vdtcoin.png" alt="" width="150"><figcaption><p><strong>VERDITE</strong></p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/VDNTcoin.png" alt="" width="150"><figcaption><p><strong>VERDANT</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/BloomCoin.png" alt="" width="150"><figcaption><p><strong>BLOOM</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/vdtcoin.png" alt="" width="150"><figcaption><p><strong>VERDITE</strong></p></figcaption></figure></div>
 
 * **$VDNT (Verdant) - 0x6e7038eb0F16c75785c43b69A0803C0eA59739DB:**\
   The native, tradable token of the ecosystem. Players acquire $VDNT through exchanges like Reservoir Swap. It serves as the primary entry point into Project Verdant. <mark style="color:red;">**THE ONLY TRADEABLE TOKEN ON PROJECT VERDANT.**</mark>\
@@ -62,13 +62,13 @@ The core Verdant loop works like this:
 {% tab title="Miners" %}
 Miners are the core yield-generating assets within Verdant World. Players deploy miners to earn daily rewards, maintain their operations, and defend their holdings against PvP attacks. Each miner type has unique characteristics that impact strategy and potential returns.
 
-<figure><img src="../.gitbook/assets/Cost 1.5% Max Units 10 Capacity time 8 Hours.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Cost 1.5% Max Units 10 Capacity time 8 Hours.gif" alt=""><figcaption></figcaption></figure>
 
 ## The four types of Miners
 
-<div><figure><img src="../.gitbook/assets/1.png" alt=""><figcaption><p>Starter Miner - <strong>AIRDROP ONLY</strong></p></figcaption></figure> <figure><img src="../.gitbook/assets/2.png" alt=""><figcaption><p>Basic Miner</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption><p>Starter Miner - <strong>AIRDROP ONLY</strong></p></figcaption></figure> <figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption><p>Basic Miner</p></figcaption></figure></div>
 
-<div><figure><img src="../.gitbook/assets/3.png" alt=""><figcaption><p>Advanced Miner</p></figcaption></figure> <figure><img src="../.gitbook/assets/4.png" alt=""><figcaption><p>Elite Miner</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption><p>Advanced Miner</p></figcaption></figure> <figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption><p>Elite Miner</p></figcaption></figure></div>
 
 ### Miner Pricing
 
@@ -87,7 +87,7 @@ Players must **claim rewards** once capacity is full to resume earning; otherwis
 
 Miners must be maintained weekly.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Miner Health - Seen indicated through hearts</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Miner Health - Seen indicated through hearts</p></figcaption></figure>
 
 Each miner has only 2 _**Health Bars**_. A _**Health Bar**_ is lost when you fail to make your weekly maintenance payment. Once a miner has lost 2 _**Health Bars**_, it will _**self-destruct**_. You will then have to purchase a brand new one.
 
@@ -113,7 +113,7 @@ Strategic use of shields, maintenance, and timing attacks against opponents is c
 {% tab title="Items" %}
 
 
-<figure><img src="../.gitbook/assets/fightttt.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fightttt.png" alt=""><figcaption></figcaption></figure>
 
 Items introduce a dynamic layer of PvP strategy, allowing players to influence each other's yield&#x20;
 
@@ -179,7 +179,7 @@ Verdant’s item system turns simple yield farming into a **competitive, tactica
 
 ### Rules of the Game (PvP Rules)
 
-<figure><img src="../.gitbook/assets/ChatGPT Image Apr 29, 2025, 03_24_58 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ChatGPT Image Apr 29, 2025, 03_24_58 AM.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:yellow;">**To maintain fairness and strategic depth, Verdant World enforces the following PvP rules:**</mark>
 

@@ -3,6 +3,7 @@ description: >-
   Project Verdant launches with a carefully calibrated token distribution to
   ensure early sustainability, fair pricing, and deep reward runway. Here’s how
   the protocol looks at launch:
+hidden: true
 icon: rocket-launch
 ---
 

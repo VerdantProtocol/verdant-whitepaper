@@ -7,9 +7,9 @@ icon: spell-check
 
 # Glossary
 
-#### **$VDNT** (Verdant Token)
-
 <figure><img src=".gitbook/assets/vex dictionary.png" alt="" width="375"><figcaption></figcaption></figure>
+
+#### **$VDNT** (Verdant Token)
 
 The native utility and governance token of Project Verdant. Used for accessing core mechanics, purchasing miners, and participating in the Verdant Arcade.
 

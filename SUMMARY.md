@@ -6,7 +6,11 @@
 
 ## Ecosystem
 
-* [Verdant World](ecosystem/verdant-world.md)
+* [Verdant World](ecosystem/verdant-world/README.md)
+  * [Tokens & Conversions](ecosystem/verdant-world/tokens-and-conversions.md)
+  * [Miners](ecosystem/verdant-world/miners.md)
+  * [Items](ecosystem/verdant-world/items.md)
+  * [Rules of the Game](ecosystem/verdant-world/rules-of-the-game.md)
 * [Arcadium](ecosystem/arcadium.md)
 
 ## Tokenomics

@@ -7,7 +7,7 @@ icon: earth-americas
 
 # Verdant World
 
-<figure><img src="../.gitbook/assets/ChatGPT Image Apr 16, 2025, 12_57_08 AM.png" alt=""><figcaption><p>Verdant World - Your Kingdom Awaits!</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/photo_2025-04-28_15-04-52.jpg" alt=""><figcaption><p>Verdant World - Your Kingdom Awaits!</p></figcaption></figure>
 
 ***
 

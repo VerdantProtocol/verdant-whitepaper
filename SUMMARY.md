@@ -2,7 +2,7 @@
 
 ## Introduction
 
-* [Verdant | $VDNT](README.md)
+* [Welcome to Project Verdant](README.md)
 
 ## Ecosystem
 

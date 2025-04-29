@@ -40,8 +40,8 @@ The Verdant ecosystem uses a structured three-token system designed to support a
 
 ### Token Conversion Summary:
 
-* <mark style="color:green;">**$VDNT**</mark>**&#x20;→&#x20;**<mark style="color:red;">**$BLM**</mark>**:** 1 $VDNT = 1,000 $BLM
-* <mark style="color:yellow;">**$VDT**</mark>**&#x20;→&#x20;**<mark style="color:green;">**$VDNT**</mark>**:** 5,000 $VDT = 1 $VDNT
+* **$VDNT -> $BLM:** 1 $VDNT = 1,000 $BLM
+* **$VDT -> $VDNT**: 5,000 $VDT = 1 $VDNT
 
 **All conversions are subject to a 10% tax**, to fuel the ecosystem.
 

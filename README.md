@@ -17,7 +17,7 @@ At the heart of the ecosystem lies _Arcadium_ — a retro-inspired, on-chain ope
 
 > “ Your next move could be the one that changes everything 👀”
 
-<div data-full-width="false"><figure><img src=".gitbook/assets/Vex Surffff.gif" alt=""><figcaption><p>Project Verdant - Powered by Abstract Chain</p></figcaption></figure></div>
+<div data-full-width="false"><figure><img src=".gitbook/assets/Vex Surffff.gif" alt=""><figcaption><p>Project Verdant - Powered by $VDNT</p></figcaption></figure></div>
 
 ## Overview
 

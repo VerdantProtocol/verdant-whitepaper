@@ -7,7 +7,7 @@ icon: road
 
 # Roadmap
 
-<div align="center"><figure><img src=".gitbook/assets/vex gif.gif" alt="" width="300"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/vex gif.gif" alt="" width="300"><figcaption></figcaption></figure></div>
 
 ### **Phase 1**&#x20;
 

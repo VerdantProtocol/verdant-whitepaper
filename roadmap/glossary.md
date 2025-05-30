@@ -7,7 +7,7 @@ icon: spell-check
 
 # Glossary
 
-<figure><img src=".gitbook/assets/vex dictionary.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vex dictionary.png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### **$VDNT** (Verdant Token)
 

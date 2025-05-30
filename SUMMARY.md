@@ -19,7 +19,7 @@
 
 ***
 
-* [Roadmap](roadmap.md)
+* [Roadmap](roadmap/README.md)
+  * [Glossary](roadmap/glossary.md)
 * [Links](links.md)
 * [Contracts](contracts.md)
-* [Glossary](glossary.md)

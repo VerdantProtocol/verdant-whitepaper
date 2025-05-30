@@ -37,6 +37,8 @@ icon: link
 
 #### 📊 **Charts & Analytics**
 
-* 📈 **DexScreener Chart**: [https://dexscreener.com/abstract/0x400f6564f4b00d8ba85200515a1edd850480dcf5](https://dexscreener.com/abstract/0x400f6564f4b00d8ba85200515a1edd850480dcf5)
+* 📈 **Abstract DexScreener Chart**: [https://dexscreener.com/abstract/0x400f6564f4b00d8ba85200515a1edd850480dcf5](https://dexscreener.com/abstract/0x400f6564f4b00d8ba85200515a1edd850480dcf5)
+* 📈 **Base DexScreener Chart**: \
+  [https://dexscreener.com/base/0xE28731087CAE5E7224Cfcf06385Be759A7ae41f6](https://dexscreener.com/base/0xE28731087CAE5E7224Cfcf06385Be759A7ae41f6)
 
 \

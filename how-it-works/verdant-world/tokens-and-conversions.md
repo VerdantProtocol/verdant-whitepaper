@@ -10,7 +10,7 @@ The Verdant ecosystem uses a structured three-token system designed to support a
 
 ## The three currencies of Verdant World
 
-<div data-full-width="false"><figure><img src="../../.gitbook/assets/1 Billion Max Supply (Base) 21 Million Max Supply (Abstract).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/bloom_cards.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/verdite_cards.png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../../.gitbook/assets/1 Billion Max Supply (Base) 21 Million Max Supply (Abstract) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/bloom_cards.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/verdite_cards.png" alt=""><figcaption></figcaption></figure></div>
 
 **The Verdant contract address is -** 0x6e7038eb0F16c75785c43b69A0803C0eA59739DB:\
 It serves as the primary entry point into Project Verdant. <mark style="color:red;">**THE ONLY TRADEABLE TOKEN ON PROJECT VERDANT.**</mark> Bloom is used to purchase miners, pay maintenance fees, buy items, and participate in games and Verdite is the rewards token generated daily by miners.\

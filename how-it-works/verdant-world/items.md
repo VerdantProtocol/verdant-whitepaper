@@ -29,7 +29,7 @@ Items are categorized by rarity, which determines which miners they can affect:
 * **Shields** strengthen your defences against incoming attacks.
 * **Restore and Revive** items are essential for long-term miner survival after PvP or maintenance failures.
 * **Morph** allows you to scale a miner into a more powerful, rarer class — a major advantage.
-* **Expansion** increases your fleet size, boosting your overall yield potential.
+* **Expansion** increases the maximum number of miners you can have within your fleet.
 
 ***
 

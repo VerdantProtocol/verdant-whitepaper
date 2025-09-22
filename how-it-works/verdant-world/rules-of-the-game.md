@@ -13,9 +13,9 @@ description: >-
 **To maintain fairness and strategic depth, Verdant World enforces the following PvP rules:**
 
 1. **Grace Period:**\
-   After a miner is bombed but survives (still has shields > 0), it becomes **immune to further attacks for 24 hours**.
+   After a miner is bombed but survives (still has shields > 0), it becomes **immune to further attacks for 12 hours**.
 2. **No Attacks During Grace:**\
-   You **cannot attack** a miner that is under its 24-hour grace period.
+   You **cannot attack** a miner that is under its 12-hour grace period.
 3. **Item Rarity Matching:**\
    Item rarities **must match** the miner’s rarity. Only bombs and items of the same tier can affect a miner.\
    &#xNAN;_(Exception: Morph items upgrade a miner and match the upgraded rarity.)_
